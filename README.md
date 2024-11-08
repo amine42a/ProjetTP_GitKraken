@@ -13,7 +13,7 @@
 
 
 image :git1.png 
-Name : Nom du projet (ici, "ProjetTP_GitKraken").
+Name : Nom du projet (ici, "ProjetTP_GitKraken").a
 Initialize in : Choix du dossier où le dépôt sera créé.
 Full path : Chemin complet du dépôt (affiché automatiquement en fonction du dossier choisi).
 Default branch name : Nom de la branche principale (par défaut, "main").
