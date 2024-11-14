@@ -32,3 +32,20 @@ Faire un commit :
 
     Dans le panneau de droite, entrez un message de commit descriptif, comme “Ajout d’une ligne dans README.md”.
     Cliquez sur Commit changes pour valider les modifications sur la branche feature. 
+    
+# Question 5
+Pousser (ou push) une branche vers le dépôt distant est essentiel car cela permet de :
+
+    Partager le travail avec les autres : Les autres membres de l’équipe peuvent accéder aux modifications, suivre le développement et travailler en parallèle.
+    Sauvegarder les modifications : Les changements sont sauvegardés de manière centralisée, ce qui protège contre la perte de données locales.
+    Préparer l’intégration : Le code peut être révisé et intégré plus facilement, notamment grâce aux pull requests.
+
+Pousser la branche feature vers le dépôt distant avec GitKraken
+
+    Vérifiez que vous êtes sur la branche feature : Assurez-vous que feature est sélectionnée en haut de l’interface GitKraken.
+
+    Pousser la branche :
+        Cliquez sur le bouton Push en haut de la fenêtre.
+        GitKraken vous demandera si vous souhaitez pousser la branche feature vers le dépôt distant. Confirmez en cliquant sur Push.
+
+    Vérifiez la réussite de l’opération : GitKraken vous affichera un message de confirmation si le push a bien été effectué.    
