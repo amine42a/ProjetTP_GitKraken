@@ -1,5 +1,5 @@
 # ProjetTP_GitKraken
-# ProjetTP_GitKraken
+
 # Question 2
 Ouvrir GitKraken : Lancez l'application GitKraken sur votre ordinateur.
 
