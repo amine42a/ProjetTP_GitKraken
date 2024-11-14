@@ -3,11 +3,11 @@
 # Question 2
 Ouvrir GitKraken : Lancez l'application GitKraken sur votre ordinateur.
 
-Nouvel espace de travail : Depuis la page d'accueil, cliquez sur l'icône ‘+’ ou sur File > Init Repo pour créer un nouveau dépôt.
+    Nouvel espace de travail : Depuis la page d'accueil, cliquez sur l'icône ‘+’ ou sur File > Init Repo pour créer un nouveau dépôt.
 
-Choisir l’emplacement : Une fois l’option de création de dépôt sélectionnée, une fenêtre s'ouvre pour spécifier l’emplacement où le dépôt sera créé. Vous pouvez choisir un dossier local ou un emplacement spécifique sur votre disque.
+    Choisir l’emplacement : Une fois l’option de création de dépôt sélectionnée, une fenêtre s'ouvre pour spécifier l’emplacement où le dépôt sera créé. Vous pouvez choisir un dossier local ou un emplacement             spécifique sur votre disque.
 
-Nommer le dépôt : ProjetTP_GitKraken   Dans le champ dédié, entrez un nom pour le dépôt. Cela va créer un dossier avec ce nom, qui contiendra tous les fichiers Git associés.
+    Nommer le dépôt : ProjetTP_GitKraken   Dans le champ dédié, entrez un nom pour le dépôt. Cela va créer un dossier avec ce nom, qui contiendra tous les fichiers Git associés.
 # Question 3
 Les branches permettent de :
 
